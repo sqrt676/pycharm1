@@ -1,2 +1,3 @@
 # pycharm1
-this is a testing repositor to work with pycharm
+Learning and creating Tic tac toe game with Python 3.9 using PyCharm and updating work on GIT
+this is a testing repository to work with pycharm
